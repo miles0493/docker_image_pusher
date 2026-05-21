@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 ubuntu:22.04
 open62541/open62541:latest
+ubuntu:20.04
